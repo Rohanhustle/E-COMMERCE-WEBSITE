@@ -1,6 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 
+
 import { MenuItem } from './menu-item.component';
 
 describe('MenuItem component', () => {
