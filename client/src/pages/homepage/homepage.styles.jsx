@@ -5,3 +5,4 @@ export const HomePageContainer = styled.div`
   flex-direction: column;
   align-items: center;
 `;
+
